@@ -7,13 +7,13 @@
 
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python, PHP, NGINX, Apache**
 
-- 💬 Ask me about **Java, MySql**
+- 💬 Ask me about **Java, MySql, HTML, CSS**
 
 - 📫 How to reach me **aadityavarma1312@gmail.com**
 
-- ⚡ Fun fact **I am a realist.**
+- ⚡ Fun fact **I am a realist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
